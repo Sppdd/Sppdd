@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Karrar! 👋
 
-<!--
-**Sppdd/sppdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning a little be of data science and a lot of Deep learning.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on a game that will deployed to the web.
+- 🌱 I’m currently learning Deep learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+
