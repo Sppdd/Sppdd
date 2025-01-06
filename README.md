@@ -1,9 +1,9 @@
 # Hi there, I'm Karrar! 👋
 
-Learning a little be of data science and a lot of Deep learning.
+Learning a little bit of data science and a lot of Deep learning.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on a game that will deployed to the web.
+- 🔭 I’m currently working on my own startup idea.
 - 🌱 I’m currently learning Deep learning 
 
 ## 🛠️ Languages and Tools
